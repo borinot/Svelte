@@ -16,10 +16,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #000;
-}
-
 .main-container {
   max-width: 1230px;
   padding: 0 15px;
@@ -88,7 +84,7 @@ h2 {
 }
 
 .suggestions {
-  color: #929292;
+  color: #666;
   line-height: 1.4;
   text-align: left;
   margin-top: 30px;
